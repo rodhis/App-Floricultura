@@ -43,3 +43,7 @@ json-server --watch db.json
 # Deploy
 
 Deploy realizado na plataforma [Vercel](https://vercel.com/) para fins de demonstração do projeto. O sistema no deploy não possui banco integrado, devido a necessitar de ajustes no codigo fonte. Então, bugs ao recarregar a página são esperados. Uma observação sobre o estado atual do deploy: Para que o deploy funcione, é necessario que o json-server esteja rodando localmente na sua máquina.
+
+# Recursos
+1. [React](https://react.dev)
+2. [Json-server](https://github.com/typicode/json-server)
